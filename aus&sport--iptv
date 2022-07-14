@@ -1,0 +1,55 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040540.png" tvg-id="tv.101305040540",Seven
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/685242495?ticket=CFF42CEB4920823A6D3F01D2A5B6DB1577416DB3&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040542.png" tvg-id="tv.101305040542",7TWO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/33017978?ticket=AF006E5685B3821563D909B75493E79B13892A7D&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040545.png" tvg-id="tv.101305040545",7flix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/314089642?ticket=11BC838325E67F4608212CB5E0EF14E25A8E546B&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040543.png" tvg-id="tv.101305040543",7mate
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/1485962607?ticket=0DBDFF607B8FE386187D8AC071CF277F9832AADD&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101204000401.png" tvg-id="tv.101204000401",Nine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/1711425144?ticket=83D06387F1219DC7D17ACC75E5D81551D5A583E4&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040A.png" tvg-id="tv.10120400040A",9Gem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/177200395?ticket=46C4F5144E07A06F82C148EBCCC5C0B673772055&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040B.png" tvg-id="tv.10120400040B",9Go!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/736739166?ticket=AA3C6530B3F0D9F8413AE9F7C37169159FB087E0&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101204000407.png" tvg-id="tv.101204000407",9Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/518511531?ticket=91746874E721CC734220511D60580D2B9AF730CC&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040C.png" tvg-id="tv.10120400040C",9Rush
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/1030512780?ticket=53D3C26312BCA5EC211F2DD557EE8D2F94FC35FA&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101406040645.png" tvg-id="tv.101406040641",TEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/300217049?ticket=6909325F446A47114F03EFE72E8E24BB76CFAF88&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101406040643.png" tvg-id="tv.101406040643",SHAKE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/1109663789?ticket=1E7B567924F5D305AC98A019BACBC1F2EE22B9DB&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101406040648.png" tvg-id="tv.101406040648",Peach
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/236776434?ticket=9588F15CA3F2F61E3DDCAB66287BAF77135FAFC3&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101406040647.png" tvg-id="tv.101406040647",BOLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/640749529?ticket=80B22B1DF3FA4E434497712F700037296A2C25BA&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png" tvg-id="tv.320203000301",SBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/267098682?ticket=23AF6DACF438E4FA64A64DA21570EA5BE721F6B8&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png" tvg-id="tv.320203000303",SBS VICELAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/853676309?ticket=725B0176FA7AE417E13A1776EA4B355BAF572071&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png" tvg-id="tv.320203000307",SBS World Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/368832716?ticket=FEFDC1ADC216EE4498CFFA5DA4360B361137FBD4&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png" tvg-id="tv.320203000304",SBS Food
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.179.178.230:9981/stream/channelid/1542838772?ticket=5FA7DD1B18F7140F0D7CB8666523CFCE73069A58&profile=pass
+#EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="eppvjpkd.ss" tvg-type="live" group-title="Sports" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-main-event-uk.png?raw=true",Sky Sports Main Event UK
+http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-id="mfghdzzfhs.ss" tvg-name="mfghdzzfhs.ss" tvg-type="live" group-title="Sports" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-arena-hz-uk.png?raw=true",Sky Sports Arena UK
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-id="hasitauf.ss" tvg-name="hasitauf.ss" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/hasitauf.ss.png",Sky Sports Cricket UK
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6d95e4b0893e155cc674b84e0763150c445d3ddd&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="bt.sport.1.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bt.sport.1.uk.png",BT Sport 1 UK
+http://127.0.0.1:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="bt.sport.2.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bt.sport.1.uk.png",BT Sport 2 UK
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="bt.sport.3.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bt.sport.1.uk.png",BT Sport 3 UK
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5f966c123759de46dff29c379266b7a403452033&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-id="bt.sport.espn.uk" tvg-name="bt.sport.espn.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bt.sport.espn.uk.png",BT Sport ESPN UK
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fc5089d8e1519872fdf951779ccbca913acc9bce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/espn.us.png",ESPN US
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-id="espn.us" tvg-name="espn2.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/espn.us.png",ESPN2 US
+http://127.0.0.1:6878/ace/manifest.m3u8?id=664eb5fe460b96941aed633959a845b185cd8394&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+

@@ -1,33 +1,35 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/au/Sydney/epg.xml"
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040540.png" tvg-id="7 Hd",7 Hd
+#EXTM3U x-tvg-url="http://xmltv.net/xml_files/Sydney.xml"
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040540.png" tvg-id="7.yourtv.com.au",Channel Seven Sydney
 http://167.179.178.230:9981/stream/channelid/685242495?ticket=CFF42CEB4920823A6D3F01D2A5B6DB1577416DB3&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040542.png" tvg-id="7Two",7TWO
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040542.png" tvg-id="72.yourtv.com.au",7TWO Sydney
 http://167.179.178.230:9981/stream/channelid/33017978?ticket=AF006E5685B3821563D909B75493E79B13892A7D&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040545.png" tvg-id="7Flix",7Flix
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040545.png" tvg-id="76.yourtv.com.au",7flix NSW
 http://167.179.178.230:9981/stream/channelid/314089642?ticket=11BC838325E67F4608212CB5E0EF14E25A8E546B&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040543.png" tvg-id="7Mate",7Mate
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040543.png" tvg-id="73.yourtv.com.au",7mate Sydney
 http://167.179.178.230:9981/stream/channelid/1485962607?ticket=0DBDFF607B8FE386187D8AC071CF277F9832AADD&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101204000401.png" tvg-id="9 Hd",9 Hd
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101204000401.png" tvg-id="9.yourtv.com.au",Channel Nine Sydney
 http://167.179.178.230:9981/stream/channelid/1711425144?ticket=83D06387F1219DC7D17ACC75E5D81551D5A583E4&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040A.png" tvg-id="9Gem",9Gem
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040A.png" tvg-id="92.yourtv.com.au",9Gem Sydney
 http://167.179.178.230:9981/stream/channelid/177200395?ticket=46C4F5144E07A06F82C148EBCCC5C0B673772055&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040B.png" tvg-id="Go",Go!
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040B.png" tvg-id="93.yourtv.com.au",9Go! Sydney
 http://167.179.178.230:9981/stream/channelid/736739166?ticket=AA3C6530B3F0D9F8413AE9F7C37169159FB087E0&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101204000407.png" tvg-id="9Life",9Life
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101204000407.png" tvg-id="94.yourtv.com.au",9Life Sydney
 http://167.179.178.230:9981/stream/channelid/518511531?ticket=91746874E721CC734220511D60580D2B9AF730CC&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040C.png" tvg-id="9Rush",9Rush
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040C.png" tvg-id="96.yourtv.com.au",9Rush Sydney
 http://167.179.178.230:9981/stream/channelid/1030512780?ticket=53D3C26312BCA5EC211F2DD557EE8D2F94FC35FA&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101406040645.png" tvg-id="10",10
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101406040645.png" tvg-id="10.yourtv.com.au",10 Sydney
 http://167.179.178.230:9981/stream/channelid/300217049?ticket=6909325F446A47114F03EFE72E8E24BB76CFAF88&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101406040643.png" tvg-id="10 Shake",10 SHAKE
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101406040643.png" tvg-id="13.yourtv.com.au",10 SHAKE Sydney
 http://167.179.178.230:9981/stream/channelid/1109663789?ticket=1E7B567924F5D305AC98A019BACBC1F2EE22B9DB&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101406040648.png" tvg-id="10 Peach",10 Peach
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101406040648.png" tvg-id="11.yourtv.com.au",10 Peach Sydney
 http://167.179.178.230:9981/stream/channelid/236776434?ticket=9588F15CA3F2F61E3DDCAB66287BAF77135FAFC3&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101406040647.png" tvg-id="10 Bold",10 BOLD
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101406040647.png" tvg-id="12.yourtv.com.au",10 BOLD Sydney
 http://167.179.178.230:9981/stream/channelid/640749529?ticket=80B22B1DF3FA4E434497712F700037296A2C25BA&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png" tvg-id="Sbs Hd",Sbs Hd
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png" tvg-id="30.yourtv.com.au",SBS Sydney
 http://167.179.178.230:9981/stream/channelid/267098682?ticket=23AF6DACF438E4FA64A64DA21570EA5BE721F6B8&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png" tvg-id="Viceland Hd",Viceland Hd
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png" tvg-id="31.yourtv.com.au",SBS VICELAND HD NSW
 http://167.179.178.230:9981/stream/channelid/853676309?ticket=725B0176FA7AE417E13A1776EA4B355BAF572071&profile=pass
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png" tvg-id="Sbs Food",Sbs Food
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png" tvg-id="32.yourtv.com.au",SBS World Movies NSW
+http://167.179.178.230:9981/stream/channelid/368832716?ticket=FEFDC1ADC216EE4498CFFA5DA4360B361137FBD4&profile=pass
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png" tvg-id="33.yourtv.com.au",SBS Food NSW
 http://167.179.178.230:9981/stream/channelid/1542838772?ticket=5FA7DD1B18F7140F0D7CB8666523CFCE73069A58&profile=pass

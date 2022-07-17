@@ -33,3 +33,5 @@ http://167.179.178.230:9981/stream/channelid/853676309?ticket=725B0176FA7AE417E1
 http://167.179.178.230:9981/stream/channelid/368832716?ticket=FEFDC1ADC216EE4498CFFA5DA4360B361137FBD4&profile=pass
 #EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png" tvg-id="33.yourtv.com.au",SBS Food NSW
 http://167.179.178.230:9981/stream/channelid/1542838772?ticket=5FA7DD1B18F7140F0D7CB8666523CFCE73069A58&profile=pass
+#EXTINF:-1,TAB
+https://tab-trackside.akamaized.net/hls/live/2017600/Trackside2/hls_2_Trackside2_720p/HRNZ/hdntl=exp=1658108536~acl=%2f*~data=hdntl~hmac=93303a5421c324bac72cb7bac226313b4b9d236c0880e6370de7f6cb751adede/chunklist.m3u8

@@ -1,5 +1,4 @@
 #EXTM3U 
-
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK| Sky Sports Action" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportsaction.png" group-title="UK | Sky Sports",UK| Sky Sports Action
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/219.ts
 #EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK| Sky Sports Arena" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportsarena.png" group-title="UK | Sky Sports",UK| Sky Sports Arena
@@ -148,7 +147,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.w
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89289.ts
 #EXTINF:-1 tvg-id="foxsportsmorehd.au" tvg-name="Fox Sports 507 FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/australian/australia-foxsports507.png" group-title="Australian Channels",Fox Sports 507 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89290.ts
-
 #EXTINF:-1 tvg-id="aande.us" tvg-name="US| A&E HD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/usaentertainment/A%26EHD.jpg" group-title="US | Entertainment",US| A&E HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/1064.ts
 #EXTINF:-1 tvg-id="fx.us" tvg-name="US| FX FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/usaentertainment/FX%20HD.png" group-title="US | Entertainment",US| FX FHD

@@ -1,4 +1,4 @@
-#EXTM3U x-url-tvg="http://m3u4u.com/epg/5g28negqm6cwdk9vnzpe"
+#EXTM3U 
 
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK| Sky Sports Action" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportsaction.png" group-title="UK | Sky Sports",UK| Sky Sports Action
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/219.ts

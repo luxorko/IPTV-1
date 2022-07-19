@@ -1,13 +1,13 @@
 EXTM3U
 #EXTINF:-1,Bein Sport !
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://player.licenses4.me/player.php?id=premium61&test=true
+https://player.licenses4.me/player.php?id=premium61&test=true
 #EXTINF:-1,Bein Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://player.licenses4.me/player.php?id=premium99&test=true
+https://player.licenses4.me/player.php?id=premium99&test=true
 #EXTINF:-1,Bein Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://player.licenses4.me/player.php?id=premium100&test=true
+https://player.licenses4.me/player.php?id=premium100&test=true
 #EXTINF:-1,Bt Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://player.licenses4.me/player.php?id=premium31&test=true
+https://player.licenses4.me/player.php?id=premium31&test=true
 #EXTINF:-1,Bt Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://player.licenses4.me/player.php?id=premium32&test=true
+https://player.licenses4.me/player.php?id=premium32&test=true
 #EXTINF:-1,Bt Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://player.licenses4.me/player.php?id=premium33&test=true
+https://player.licenses4.me/player.php?id=premium33&test=true

@@ -1,0 +1,151 @@
+#EXTM3U x-url-tvg="http://m3u4u.com/epg/5g28negqm6cwdk9vnzpe"
+
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK| Sky Sports Action" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportsaction.png" group-title="UK | Sky Sports",UK| Sky Sports Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/219.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK| Sky Sports Arena" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportsarena.png" group-title="UK | Sky Sports",UK| Sky Sports Arena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/216.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| Sky Sports Cricket" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportscricket.png" group-title="UK | Sky Sports",UK| Sky Sports Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/217.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| Sky Sports F1" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportsf1.png" group-title="UK | Sky Sports",UK| Sky Sports F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/80135.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK| Sky Sports Football" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportsfootball.png" group-title="UK | Sky Sports",UK| Sky Sports Football
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/184.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK| Sky Sports Golf" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportsgolf.png" group-title="UK | Sky Sports",UK| Sky Sports Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/161.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| Sky Sports Main Event" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportsmainevent.png" group-title="UK | Sky Sports",UK| Sky Sports Main Event
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/164.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK| Sky Sports Mix" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportsmix.png" group-title="UK | Sky Sports",UK| Sky Sports Mix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/167.ts
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK| Sky Sports Premier League" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportspremierleague.png" group-title="UK | Sky Sports",UK| Sky Sports Premier League
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/166.ts
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK| BT Sport 1" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/btsport/btsport-btsport1.png" group-title="UK | Sports",UK| BT Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/14358.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK| BT Sport 2" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/btsport/btsport-btsport2.png" group-title="UK | Sports",UK| BT Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/14356.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK| BT Sport 3" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/btsport/btsport-btsport3.png" group-title="UK | Sports",UK| BT Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/14355.ts
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK| BT Sport ESPN" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/btsport/btsport-btsportespn.png" group-title="UK | Sports",UK| BT Sport ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/83296.ts
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK| Box Nation" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/uksportsextra/boxnation.jpeg" group-title="UK | Sports",UK| Box Nation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/414.ts
+#EXTINF:-1 tvg-id="fitetvhd.8" tvg-name="SP| PPV" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/daznlogo.png" group-title="Pay Per View",SP| PPV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/97265.ts
+#EXTINF:-1 tvg-id="fitetv24.us" tvg-name="PPV Fite TV (24|7)" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/FITETV/FITETV_247.png" group-title="Pay Per View",PPV Fite TV (24|7)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/101635.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fite 01:" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/fitetv/fite%20tv%2002.png" group-title="Pay Per View",Fite 01:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/98084.ts
+#EXTINF:-1 tvg-id="UFC1.UFC" tvg-name="US| UFC FIGHT PASS" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/ufcmma/ufcfightpass-247.png" group-title="Pay Per View",US| UFC FIGHT PASS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/69574.ts
+#EXTINF:-1 tvg-id="ufc247.us" tvg-name="US| UFC Live" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/ufctv.jpg" group-title="Pay Per View",US| UFC Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/16006.ts
+#EXTINF:-1 tvg-id="UFC1.UFC" tvg-name="US| UFC F.P. 1" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/ufcmma/ufcfightpass-01.png" group-title="Pay Per View",US| UFC F.P. 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/95126.ts
+#EXTINF:-1 tvg-id="UFC2.UFC" tvg-name="US| UFC F.P. 2" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/ufcmma/ufcfightpass-02.png" group-title="Pay Per View",US| UFC F.P. 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/95125.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV: Tour De France: 11.50AM GMT" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/ppvevents/ppvevents-01.png" group-title="Pay Per View",PPV: Tour De France: 11.50AM GMT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/101633.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV: DARTS: World Matchplay Darts 7PM GMT" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/ppvevents/ppvevents-02.png" group-title="Pay Per View",PPV: DARTS: World Matchplay Darts 7PM GMT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/101631.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV: Tomorrowland Mainstage" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/ppvevents/ppvevents-06.png" group-title="Pay Per View",PPV: Tomorrowland Mainstage
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/101630.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV| Sportsnet PPV" tvg-logo="https://www.rogers.com/cms/images/en/NewRogers/CableTV/Banners/snppv.jpg" group-title="Pay Per View",PPV| Sportsnet PPV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/101629.ts
+#EXTINF:-1 tvg-id="DAZN1.DAZN" tvg-name="DAZN 01:" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dazn/DAZN-1.png" group-title="DAZN / Spark / Optus",DAZN 01:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89135.ts
+#EXTINF:-1 tvg-id="DAZN2.DAZN" tvg-name="DAZN 02:" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dazn/DAZN-2.png" group-title="DAZN / Spark / Optus",DAZN 02:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89134.ts
+#EXTINF:-1 tvg-id="DAZN3.DAZN" tvg-name="DAZN 03:" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dazn/DAZN-3.png" group-title="DAZN / Spark / Optus",DAZN 03:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/103132.ts
+#EXTINF:-1 tvg-id="DAZN4.DAZN" tvg-name="DAZN 04:" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dazn/DAZN-4.png" group-title="DAZN / Spark / Optus",DAZN 04:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/103133.ts
+#EXTINF:-1 tvg-id="SPARK1.SPARK" tvg-name="Spark Sports 1" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/sparksportevent/SPARKSPORT-1.png" group-title="DAZN / Spark / Optus",Spark Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/104057.ts
+#EXTINF:-1 tvg-id="SPARK2.SPARK" tvg-name="Spark Sports 2" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/sparksportevent/SPARKSPORT-2.png" group-title="DAZN / Spark / Optus",Spark Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/104160.ts
+#EXTINF:-1 tvg-id="OPTUS1.OPTUS" tvg-name="Optus Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Optus_Sport_logo.png/220px-Optus_Sport_logo.png" group-title="DAZN / Spark / Optus",Optus Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/93033.ts
+#EXTINF:-1 tvg-id="OPTUS2.OPTUS" tvg-name="Optus Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Optus_Sport_logo.png/220px-Optus_Sport_logo.png" group-title="DAZN / Spark / Optus",Optus Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/93032.ts
+#EXTINF:-1 tvg-id="ESPN1.ESPN" tvg-name="ESPN+ 01 HD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/espnplus/espnplus1.png" group-title="US | ESPN +",ESPN+ 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/70057.ts
+#EXTINF:-1 tvg-id="ESPN2.ESPN" tvg-name="ESPN+ 02 HD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/espnplus/espnplus2.png" group-title="US | ESPN +",ESPN+ 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/70056.ts
+#EXTINF:-1 tvg-id="ESPN3.ESPN" tvg-name="ESPN+ 03 HD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/espnplus/espnplus3.png" group-title="US | ESPN +",ESPN+ 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/70055.ts
+#EXTINF:-1 tvg-id="ESPN4.ESPN" tvg-name="ESPN+ 04 HD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/espnplus/espnplus4.png" group-title="US | ESPN +",ESPN+ 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/70054.ts
+#EXTINF:-1 tvg-id="ESPN5.ESPN" tvg-name="ESPN+ 05 HD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/espnplus/espnplus5.png" group-title="US | ESPN +",ESPN+ 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/70053.ts
+#EXTINF:-1 tvg-id="ESPN6.ESPN" tvg-name="ESPN+ 06 HD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/espnplus/espnplus6.png" group-title="US | ESPN +",ESPN+ 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/70052.ts
+#EXTINF:-1 tvg-id="ESPN7.ESPN" tvg-name="ESPN+ 07 HD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/espnplus/espnplus7.png" group-title="US | ESPN +",ESPN+ 07 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/70051.ts
+#EXTINF:-1 tvg-id="ESPN8.ESPN" tvg-name="ESPN+ 08 HD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/espnplus/espnplus8.png" group-title="US | ESPN +",ESPN+ 08 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/70050.ts
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US| NFL Network FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/nflseasonpass/nflnetwork.png" group-title="US | NFL Games",US| NFL Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/704.ts
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US| NFL Network HD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/usasportsnew/usasports-nflnetwork.png" group-title="US | NFL Games",US| NFL Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/3985.ts
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="SP| Supersport Blitz" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-blitz.png" group-title="Supersports SA",SP| Supersport Blitz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/102806.ts
+#EXTINF:-1 tvg-id="SuperSportPlay.za" tvg-name="SP| Supersport Play" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-play.png" group-title="Supersports SA",SP| Supersport Play
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/103840.ts
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="SP| SuperSport Grandstand" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-grandstand.png" group-title="Supersports SA",SP| SuperSport Grandstand
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/102242.ts
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="SP| SuperSport Variety 1" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-variety1.png" group-title="Supersports SA",SP| SuperSport Variety 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/102240.ts
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="SP| SuperSport Variety 2" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-variety2.png" group-title="Supersports SA",SP| SuperSport Variety 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/102241.ts
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="SP| SuperSport Variety 3" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-variety3.png" group-title="Supersports SA",SP| SuperSport Variety 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/102236.ts
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="SP| SuperSport Variety 4" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-variety4.png" group-title="Supersports SA",SP| SuperSport Variety 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/102237.ts
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="SP| SuperSport Action" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-action.png" group-title="Supersports SA",SP| SuperSport Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/102239.ts
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="SP| SuperSport Football" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-football.png" group-title="Supersports SA",SP| SuperSport Football
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/102238.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP| SuperSport Football Plus" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstvafrica/SuperSport-play.jpg" group-title="Supersports SA",SP| SuperSport Football Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/104192.ts
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="SP| SuperSport Rugby" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-rugby.png" group-title="Supersports SA",SP| SuperSport Rugby
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/102235.ts
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SP| SuperSport Cricket" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-cricket.png" group-title="Supersports SA",SP| SuperSport Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/102234.ts
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="SP| SuperSport Golf" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-golf.png" group-title="Supersports SA",SP| SuperSport Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/103555.ts
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="SP| SuperSport Tennis" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-tennis.png" group-title="Supersports SA",SP| SuperSport Tennis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/104135.ts
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="SP| SuperSport Motorsport" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-motorsport.png" group-title="Supersports SA",SP| SuperSport Motorsport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/104134.ts
+#EXTINF:-1 tvg-id="supersportwwe.za" tvg-name="SP| SuperSport WWE" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-wwe-channel.png" group-title="Supersports SA",SP| SuperSport WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/104193.ts
+#EXTINF:-1 tvg-id="espn.za" tvg-name="SP| ESPN" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-espn.png" group-title="Supersports SA",SP| ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/104101.ts
+#EXTINF:-1 tvg-id="espn2.za" tvg-name="SP| ESPN 2" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/dstv-supersports/dstvsupersport-espn2.png" group-title="Supersports SA",SP| ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/104203.ts
+#EXTINF:-1 tvg-id="beinsports1.au" tvg-name="beIN Sports 1 Australia FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/australian/australia-beinsports1.png" group-title="Australian Channels",beIN Sports 1 Australia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89293.ts
+#EXTINF:-1 tvg-id="beinsports2.au" tvg-name="beIN Sports 2 Australia FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/australian/australia-beinsports2.jpg" group-title="Australian Channels",beIN Sports 2 Australia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89294.ts
+#EXTINF:-1 tvg-id="beinsports3.au" tvg-name="beIN Sports 3 Australia FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/australian/australia-beinsports3.png" group-title="Australian Channels",beIN Sports 3 Australia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89295.ts
+#EXTINF:-1 tvg-id="espn.au" tvg-name="ESPN FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/australian/australia-espn.jpg" group-title="Australian Channels",ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89291.ts
+#EXTINF:-1 tvg-id="espn2.au" tvg-name="ESPN 2 FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/australian/australia-espn2.png" group-title="Australian Channels",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89292.ts
+#EXTINF:-1 tvg-id="foxsports502.au" tvg-name="AU| Fox Sports NRL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_(2015).svg/1200px-Fox_Footy_logo_(2015).svg.png" group-title="Australian Channels",AU| Fox Sports NRL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/37748.ts
+#EXTINF:-1 tvg-id="foxsports501.au" tvg-name="Fox Cricket (501) FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/australian/australia-foxsports501.png" group-title="Australian Channels",Fox Cricket (501) FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89284.ts
+#EXTINF:-1 tvg-id="foxsports502.au" tvg-name="Fox League (502) FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/australian/australia-foxsports502.png" group-title="Australian Channels",Fox League (502) FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89285.ts
+#EXTINF:-1 tvg-id="foxsports503hd.au" tvg-name="Fox Sports 503 FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/australian/australia-foxsports503.png" group-title="Australian Channels",Fox Sports 503 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89286.ts
+#EXTINF:-1 tvg-id="foxfooty.au" tvg-name="Fox Sports 504 FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/australian/australia-foxsports504.png" group-title="Australian Channels",Fox Sports 504 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89287.ts
+#EXTINF:-1 tvg-id="foxsports505.au" tvg-name="Fox Sports 505 FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/australian/5australia-foxsports505.png" group-title="Australian Channels",Fox Sports 505 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89288.ts
+#EXTINF:-1 tvg-id="foxsports506.au" tvg-name="Fox Sports 506 FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/australian/australia-foxsports506.png" group-title="Australian Channels",Fox Sports 506 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89289.ts
+#EXTINF:-1 tvg-id="foxsportsmorehd.au" tvg-name="Fox Sports 507 FHD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/australian/australia-foxsports507.png" group-title="Australian Channels",Fox Sports 507 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/89290.ts
+

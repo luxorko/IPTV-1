@@ -1,4 +1,5 @@
-#EXTM3U 
+#EXTM3U x-tvg-url="http://tv.nlt.wtf:24561/xmltv.php?username=Ashley689&password=673175
+
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK| Sky Sports Action" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportsaction.png" group-title="UK | Sky Sports",UK| Sky Sports Action
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nlt.wtf:24561/live/Ashley689/673175/219.ts
 #EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK| Sky Sports Arena" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/skysportslogos/skysportsarena.png" group-title="UK | Sky Sports",UK| Sky Sports Arena

@@ -1,1 +1,18 @@
+#EXTM3U x-tvg-url=""
 
+#EXTINF:-1 tvg-id="ss.action.ze" tvg-name="SPORTS : AF SUPERSPORT ACTION" tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : SUPERSPORT ACTION
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110705.m3u8
+#EXTINF:-1 tvg-id="ss.blitz.ze" tvg-name="SPORTS : AF SUPERSPORT BLITZ" tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : SUPERSPORT BLITZ
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111009.m3u8
+#EXTINF:-1 tvg-id="ss.cricket.ze" tvg-name="SPORTS : AF SUPERSPORT CRICKET" tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : SUPERSPORT CRICKET
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110707.m3u8
+#EXTINF:-1 tvg-id="ss.golf.ze" tvg-name="SPORTS : AF SUPERSPORT GOLF" tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : SUPERSPORT GOLF
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111012.m3u8
+#EXTINF:-1 tvg-id="ss.grandstand.ze" tvg-name="SPORTS : AF SUPERSPORT GRANDSTAND" tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : SUPERSPORT GRANDSTAND
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110696.m3u8
+#EXTINF:-1 tvg-id="ss.motorsport.ze" tvg-name="SPORTS : AF SUPERSPORT MOTORSPORT" tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : SUPERSPORT MOTORSPORT
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111010.m3u8
+#EXTINF:-1 tvg-id="ss.rugby.ze" tvg-name="SPORTS : AF SUPERSPORT RUGBY" tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : SUPERSPORT RUGBY
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110706.m3u8
+#EXTINF:-1 tvg-id="ss.tennis.ze" tvg-name="SPORTS : AF SUPERSPORT TENNIS" tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SPORTS : SUPERSPORT TENNIS
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111011.m3u8

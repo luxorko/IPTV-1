@@ -1,15 +1,1 @@
-EXTM3U
-#EXTINF:-1,Bein Sport !
-https://player.licenses4.me/player.php?id=premium61&test=true
-#EXTINF:-1,Bein Sport 2
-https://player.licenses4.me/player.php?id=premium99&test=true
-#EXTINF:-1,Bein Sport 3
-https://player.licenses4.me/player.php?id=premium100&test=true
-#EXTINF:-1,Bt Sport 1
-https://player.licenses4.me/player.php?id=premium31&test=true
-#EXTINF:-1,Bt Sport 2
-https://player.licenses4.me/player.php?id=premium32&test=true
-#EXTINF:-1,Bt Sport 3
-https://player.licenses4.me/player.php?id=premium33&test=true
 
-http://198.18.11.18:6363/ustvgo.m3u8

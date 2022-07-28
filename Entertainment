@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+#url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
  
 #EXTINF:-1 tvg-id="AEEast.us" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/a-and-e-us.png",AE
 http://89.187.175.143:80/3063/mpegts

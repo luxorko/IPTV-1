@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://i.mjh.nz/DStv/za.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://i.mjh.nz/DStv/za.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml"
+"
 
 #EXTINF:-1 tvg-id="WCBSDT1.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/cbs.png", WCBS-DT1 CBS 2
 https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8

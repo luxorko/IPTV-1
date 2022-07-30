@@ -31,6 +31,8 @@ http://89.187.175.143:80/3020/mpegts
 http://69.164.224.53:80/ESPN/mpegts
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png", ESPNU
 http://89.187.175.143:80/3044/mpegts
+#EXTINF:-1 tvg-id="WOFLDT1.us" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",FOX 35 (WOFL-DT1) Orlando, FL
+http://89.187.175.143:80/3085/mpegts
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png",Fox Sports 1 
 http://89.187.175.143:80/3056/mpegts
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-2-us.png",Fox Sports 2 
@@ -99,6 +101,8 @@ http://89.187.175.143:80/3097/mpegts
 http://89.187.175.143:80/3099/mpegts
 #EXTINF:-1 tvg-id="SECNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/512px-SEC_Network_logo.svg.png",SEC Network
 http://89.187.175.143:80/3054/mpegts
+#EXTINF:-1 tvg-id="ShowtimeWomenEast.us" tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",Showtime Women East
+http://89.187.175.143:80/3057/mpegts
 #EXTINF:-1 tvg-id="StarzEast.us" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stz_2016_bk_rgb.jpg",Starz East
 http://89.187.175.143:80/3035/mpegts
 #EXTINF:-1 tvg-id="StarzComedyEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Starz_Comedy_logo.svg/300px-Starz_Comedy_logo.svg.png?20150724120608",Starz Comedy East

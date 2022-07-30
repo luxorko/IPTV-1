@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://i.mjh.nz/DStv/za.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml,https://github.com/epgshare01/share01/blob/master/epg_ripper_US_LOCALS2.xml.gz"
 #EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png",ABC East
 http://89.187.175.143:80/3055/mpegts
 #EXTINF:-1 tvg-id="AEEast.us" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/a-and-e-us.png",AE
@@ -21,6 +21,8 @@ http://89.187.175.143:80/3032/mpegts
 http://89.187.175.143:80/3018/mpegts
 #EXTINF:-1 tvg-id="CrimePlusInvestigationCanada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png?20170315131004",Crime+Investigation
 http://89.187.175.143:80/3088/mpegts
+#EXTINF:- tvg-id="CW.(WCWJ).Jacksonville,.FL.us" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/cw.png",CW WCWJ Jacksonville FL
+http://89.187.175.143:80/3083/mpegts
 #EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/disney-xd-us.png",Disney XD East
 http://89.187.175.143:80/3016/mpegts
 #EXTINF:-1 tvg-id="EEast.us" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/e-entertainment-us.png",E!East

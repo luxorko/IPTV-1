@@ -97,12 +97,14 @@ http://89.187.175.143:80/3036/mpegts
 http://89.187.175.143:80/3015/mpegts
 #EXTINF:-1 tvg-id="PopEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png?20210725003225",Pop East
 http://89.187.175.143:80/3097/mpegts
-#EXTINF:-1 tvg-id="Reelz.us" tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png",Reelz
+#EXTINF:-1 tvg-id="Reelz.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png",Reelz
 http://89.187.175.143:80/3099/mpegts
 #EXTINF:-1 tvg-id="SECNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/512px-SEC_Network_logo.svg.png",SEC Network
 http://89.187.175.143:80/3054/mpegts
 #EXTINF:-1 tvg-id="ShowtimeExtremeEast.us" tvg-logo="https://i.imgur.com/byJNJdm.png",Showtime Extreme East
 http://89.187.175.143:80/3057/mpegts
+#EXTINF:-1 tvg-id="Showtime2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",Showtime 2 East
+http://89.187.175.143:80/3040/mpegts
 #EXTINF:-1 tvg-id="StarzEast.us" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stz_2016_bk_rgb.jpg",Starz East
 http://89.187.175.143:80/3035/mpegts
 #EXTINF:-1 tvg-id="StarzComedyEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Starz_Comedy_logo.svg/300px-Starz_Comedy_logo.svg.png?20150724120608",Starz Comedy East

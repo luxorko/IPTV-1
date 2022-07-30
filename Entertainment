@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://i.mjh.nz/DStv/za.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml"
-#EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ABC_%282013%29_Dark_Grey.svg",ABC
+#EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ABC_%282013%29_Dark_Grey.svg",ABC East
 http://89.187.175.143:80/3055/mpegts
 #EXTINF:-1 tvg-id="AEEast.us" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/a-and-e-us.png",AE
 http://89.187.175.143:80/3063/mpegts

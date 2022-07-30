@@ -101,7 +101,7 @@ http://89.187.175.143:80/3097/mpegts
 http://89.187.175.143:80/3099/mpegts
 #EXTINF:-1 tvg-id="SECNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/512px-SEC_Network_logo.svg.png",SEC Network
 http://89.187.175.143:80/3054/mpegts
-#EXTINF:-1 tvg-id="ShowtimeWomenEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",Showtime Women East
+#EXTINF:-1 tvg-id="ShowtimeExtremeEast.us" tvg-logo="https://i.imgur.com/byJNJdm.png",Showtime Extreme East
 http://89.187.175.143:80/3057/mpegts
 #EXTINF:-1 tvg-id="StarzEast.us" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stz_2016_bk_rgb.jpg",Starz East
 http://89.187.175.143:80/3035/mpegts

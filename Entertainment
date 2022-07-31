@@ -21,7 +21,7 @@ http://89.187.175.143:80/3032/mpegts
 http://89.187.175.143:80/3018/mpegts
 #EXTINF:-1 tvg-id="CrimePlusInvestigationCanada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png?20170315131004",Crime+Investigation
 http://89.187.175.143:80/3088/mpegts
-#EXTINF:- tvg-id="CW.(WCWJ).Jacksonville.FL.us" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/cw.png",CW WCWJ Jacksonville FL
+#EXTINF:- tvg-id="WCWJ_2046" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/cw.png",CW WCWJ Jacksonville FL
 http://89.187.175.143:80/3083/mpegts
 #EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/disney-xd-us.png",Disney XD East
 http://89.187.175.143:80/3016/mpegts

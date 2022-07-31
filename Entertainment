@@ -133,6 +133,8 @@ http://89.187.175.143:80/3025/mpegts
 http://89.187.175.143:80/3034/mpegts
 #EXTINF:-1 tvg-id="WeTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/1200px-We_TV_logo_2014.svg.png",We TV East
 http://89.187.175.143:80/3037/mpegts
+#EXTINF:-1 tvg-id="WWENetworkCanada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/512px-WWE_Network_logo.svg.png",WWE Network
+http://89.187.175.143:80/3075/mpegts
 #EXTINF:-1 tvg-id="VH1USEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png",VH1 East
 http://89.187.175.143:80/3080/mpegts
 #EXTINF:-1 tvg-id="HD7" tvg-log="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT ACTION

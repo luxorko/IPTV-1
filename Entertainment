@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml,https://github.com/epgshare01/share01/blob/master/epg_ripper_US_LOCALS2.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml"
 #EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png",ABC East
 http://89.187.175.143:80/3055/mpegts
 #EXTINF:-1 tvg-id="AEEast.us" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/a-and-e-us.png",AE

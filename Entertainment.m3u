@@ -17,7 +17,7 @@ http://89.187.175.143:80/3019/mpegts
 http://89.187.175.143:80/3001/mpegts
 #EXTINF:-1 tvg-id="ThrillerMaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/634px-ThrillerMax_Logo.svg.png?20211005021820"group-title="USA TV",ThrillerMax East
 http://89.187.175.143:80/3032/mpegts
-#EXTINF:-1 tvg-id="CMTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png group-title="USA TV",CMT East
+#EXTINF:-1 tvg-id="CMTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="USA TV",CMT East
 http://89.187.175.143:80/3018/mpegts
 #EXTINF:-1 tvg-id="EEast.us" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/e-entertainment-us.png" group-title="USA TV",E!East
 http://89.187.175.143:80/3082/mpegts
@@ -55,7 +55,7 @@ http://89.187.175.143:80/3029/mpegts
 http://89.187.175.143:80/3014/mpegts
 #EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png?20150721005532" group-title="USA TV",HBO Zone East 
 http://89.187.175.143:80/3090/mpegts
-#EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="USA TV" : History East
+#EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="USA TV",History East
 http://89.187.175.143:80/3031/mpegts
 #EXTINF:-1 tvg-id="History2Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG?20160227183152" group-title="USA TV",History2
 http://89.187.175.143:80/3058/mpegts

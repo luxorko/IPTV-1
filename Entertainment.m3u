@@ -111,6 +111,12 @@ http://89.187.175.143:80/3035/mpegts
 http://89.187.175.143:80/3041/mpegts
 #EXTINF:-1 tvg-id="StarzKidsFamilyEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/300px-Starz_Kids_%26_Family_logo.svg.png?20150724120609",Starz Kids & Family
 http://89.187.175.143:80/3043/mpegts
+#EXTINF:-1 tvg-id="SRA" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=6024394:206:CHANNEL:IMAGE:png&amp;w=400",Sky Racing 1
+https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index_extreme.m3u8?|user-agent=Mozilla/5.0(WindowsNT6.2;Win64;x64;rv:101.0)Gecko/20100101/Firefox/101.0
+#EXTINF:-1 tvg-id="SR2" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=6024398:206:CHANNEL:IMAGE:png&amp;w=400",Sky Racing 2
+https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index_extreme.m3u8?|user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/103.0.5060.134Safari/537.36Edg/103.0.1264.77
+#EXTINF:-1 tvg-id="SRW" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=6024394:206:CHANNEL:IMAGE:png&amp;w=400",Sky Racing Thoroughbred Central
+https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index_veryhigh.m3u8?|user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/103.0.5060.134Safari/537.36/Edg/103.0.1264.77
 #EXTINF:-1 tvg-id="HD7" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png",ACTION
 http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110705.ts?token=T0NeWUpZEAwWAgYDBgBbXVEIUwcBBwcAAQBTVwMLUVMEUgcBW1ALU1BBHxdBQxAABVRpC11BDQEBAFUHBh5GRUcERGdQVRAMFlcEAQEDU0dIG0ILVAYVCgAdR0ZdVkYKFlIDAQgBEBoWBktBV0UMBAhmUgdPClRVEgsLQ1heSBJbD2lcXFxTWFBBCRcCFU5HDUpGQAMNQlxcHUdUXUYWUUAEFAIbBgEFFk8RVl1CDBEWQBRYGy1tEhwTAE5AVwpDXQ5YGgMTXwVBWxEZEF4ROhZcRRZLBlZdVUNHDBYCRhwWDFdAZlJdWFoGUEFbWAwWRgMUURtPFV1fXwxCW0A7QF0FFAIbAgAAB1oRSA==
 #EXTINF:-1 tvg-id="SSZ" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png",BLITZ

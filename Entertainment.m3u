@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://i.mjh.nz/nz/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml"
-#EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ABC_%282013%29_Dark_Grey.svg",ABC East
+#EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://logos-world.net/wp-content/uploads/2020/06/American-Broadcasting-Company-Logo.png",ABC East
 http://89.187.175.143:80/3055/mpegts
 #EXTINF:-1 tvg-id="AEEast.us" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/a-and-e-us.png",AE
 http://89.187.175.143:80/3063/mpegts
@@ -95,7 +95,6 @@ http://89.187.175.143:80/3043/mpegts
 http://89.187.175.143:80/3030/mpegts
 #EXTINF:-1 tvg-id="TravelChannelEast.us" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/travel-channel-us.png",The Travel Channel
 http://89.187.175.143:80/3039/mpegts
-http://89.187.175.143:80/3048/mpegts
 #EXTINF:-1 tvg-id="TVLandEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png",TV Land East
 http://89.187.175.143:80/3033/mpegts
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://www.nicepng.com/png/detail/8-80082_nuvola-usa-flag-usa-wavy-flag-png.png",USA Network East

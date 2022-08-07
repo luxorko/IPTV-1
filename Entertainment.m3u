@@ -155,6 +155,8 @@ https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index_extreme.m3u8?|u
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index_extreme.m3u8?|user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/103.0.5060.134Safari/537.36Edg/103.0.1264.77
 #EXTINF:-1 tvg-id="SRW" tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/original/3X/9/8/9853682c9ba0b5fcfc0626b85fe22075a65da6a4.jpeg",Sky Racing Thoroughbred Central
 https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index_veryhigh.m3u8?|user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/103.0.5060.134Safari/537.36/Edg/103.0.1264.77
+#EXTINF:-1 tvg-id="SRA" tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/original/3X/9/8/9853682c9ba0b5fcfc0626b85fe22075a65da6a4.jpeg",Sky Racing 4
+plugin://plugin.video.tab.nz/?_=play&_play=1&id=TS1&type=channel&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="HD7" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png",ACTION
 http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110705.ts?token=T0NeWUpZEAwWAgYDBgBbXVEIUwcBBwcAAQBTVwMLUVMEUgcBW1ALU1BBHxdBQxAABVRpC11BDQEBAFUHBh5GRUcERGdQVRAMFlcEAQEDU0dIG0ILVAYVCgAdR0ZdVkYKFlIDAQgBEBoWBktBV0UMBAhmUgdPClRVEgsLQ1heSBJbD2lcXFxTWFBBCRcCFU5HDUpGQAMNQlxcHUdUXUYWUUAEFAIbBgEFFk8RVl1CDBEWQBRYGy1tEhwTAE5AVwpDXQ5YGgMTXwVBWxEZEF4ROhZcRRZLBlZdVUNHDBYCRhwWDFdAZlJdWFoGUEFbWAwWRgMUURtPFV1fXwxCW0A7QF0FFAIbAgAAB1oRSA==
 #EXTINF:-1 tvg-id="SSZ" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png",BLITZ

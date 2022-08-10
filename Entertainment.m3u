@@ -124,7 +124,7 @@ http://89.187.175.143:80/3080/index.m3u8
 #EXTINF:-1 tvg-id="tv.9" tvg-logo="https://i.mjh.nz/.images/tv.9.png" tvg-chno="1",TVNZ 1
 https://d2ce82tpc3p734.cloudfront.net/v1/manifest/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/15a050ec-f73b-429f-aa79-0e2e9e90f146/4.m3u8
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="https://i.mjh.nz/.images/tv.10.png" tvg-chno="2",TVNZ 2
-https://duoak7vltfob0.cloudfront.net/v1/manifest/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/bba0c5e0-2034-4819-aafb-9c568991c0e8/4.m3u8
+https://duoak7vltfob0.cloudfront.net/v1/manifest/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/533860f6-27a7-4087-aa46-ff1e8f79440b/4.m3u8
 #EXTINF:-1 tvg-id="tv.11" tvg-logo="https://i.mjh.nz/.images/tv.11.png" tvg-chno="3",Three
 https://livestream-three-mobile.fullscreen.nz/out/v1/7db306e3d2924ccb9764c640de832d79/index_1.m3u8
 #EXTINF:-1 tvg-id="tv.12" tvg-logo="https://i.mjh.nz/.images/tv.12.png" tvg-chno="4",Bravo

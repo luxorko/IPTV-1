@@ -153,6 +153,18 @@ http://89.187.175.143:80/3056/index.m3u8
 http://89.187.175.143:80/3013/index.m3u8
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png",MLB Network
 http://89.187.175.143:80/3003/index.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png",NBC Sports Boston
+http://66.70.176.103:8081/USA%7CNBCSPORTSBOSTONCH/USA%7CNBCSPORTSBOSTONCH/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/NBC_Sports_Bay_Area.png",NBC Sports Bay Area
+http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/NBC_Sports_California.png",NBC Sports California
+http://66.70.176.103:8081/USA%7CNBCNCALIFORNIA/USA%7CNBCNCALIFORNIA/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/NBC_Sports_Chicago.jpg",NBC Sports Chicago
+http://66.70.176.103:8081/USA%7CNBCSPORTSCHICAGOCH/USA%7CNBCSPORTSCHICAGOCH/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/NBC_Sports_Philadelphia.png",NBC Sports Philadelphia
+http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCSportsWashington.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png",NBC Sports Washington
+http://66.70.176.103:8081/USA%7CNBCSPORTSWASHINGTONCH/USA%7CNBCSPORTSWASHINGTONCH/playlist.m3u8
 #EXTINF:-1 tvg-id="SECNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/512px-SEC_Network_logo.svg.png",SEC Network
 http://89.187.175.143:80/3054/index.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://logodix.com/logo/1906217.png",TSN1

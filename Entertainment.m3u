@@ -183,6 +183,24 @@ plugin://plugin.video.tab.nz/?_=play&_play=1&id=TS1&type=channel&_is_live=1&_nor
 plugin://plugin.video.tab.nz/?_=play&_play=1&id=TS2&type=channel&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" tvg-id="78.yourtv.com.au",Racing.Com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="NZ: Sky Sport 1" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport1_NewLogo_V_80x60.png",NZ Sky Sport 1
+plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=SPT1&_is_live=1&_noresume=.pvr
+#EXTINF:-1 tvg-id="SkySport2.nz" tvg-name="NZ: Sky Sport 2" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport2_NewLogo_V_80x60.png",NZ Sky Sport 2
+plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=SPT2&_is_live=1&_noresume=.pvr
+#EXTINF:-1 tvg-id="SkySport3.nz" tvg-name="NZ: Sky Sport 3" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport3_NewLogo_V_80x60.png",NZ Sky Sport 3
+plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=SPT3&_is_live=1&_noresume=.pvr
+#EXTINF:-1 tvg-id="SkySport4.nz" tvg-name="NZ: Sky Sport 4" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport4_NewLogo_V_80x60.png",NZ Sky Sport 4
+plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=SPT4&_is_live=1&_noresume=.pvr
+#EXTINF:-1 tvg-id="SkySport5.nz" tvg-name="NZ: Sky Sport 5" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport5_NewLogo_V_80x60.png"NZ Sky Sport 5
+plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=SPT5&_is_live=1&_noresume=.pvr
+#EXTINF:-1 tvg-id="SkySport6.nz" tvg-name="NZ: Sky Sport 6" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport6_NewLogo_V_80x60.png",NZ Sky Sport 6
+plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=SPT6&_is_live=1&_noresume=.pvr
+#EXTINF:-1 tvg-id="SkySport7.nz" tvg-name="NZ: Sky Sport 7" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport7_NewLogo_V_80x60.png",NZ Sky Sport 7
+plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=SPT7&_is_live=1&_noresume=.pvr
+#EXTINF:-1 tvg-id="SkySport8.nz" tvg-name="NZ: Sky Sport 8" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport8_NewLogo_V_80x60.png",NZ Sky Sport 8
+plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=SPT8&_is_live=1&_noresume=.pvr
+#EXTINF:-1 tvg-id="SkySport9.nz" tvg-name="NZ: Sky Sport 9" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport9_NewLogo_V_80x60.png",NZ Sky Sport 9
+plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=SPT9&_is_live=1&_noresume=.pvr
 
 
 

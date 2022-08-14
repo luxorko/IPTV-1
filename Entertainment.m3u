@@ -178,9 +178,9 @@ http://89.187.175.143:80/3047/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tsn5-192.png",TSN5
 http://89.187.175.143:80/3048/index.m3u8
 #EXTINF:-1 tvg-id="tv.trackside1" tvg-logo="https://raw.githubusercontent.com/apelly/mythtv-nz-channel-logos/master/4%3A3/Trackside.png",TAB Trackside  1
-https://loveracing.nz/Common/SystemTemplates/Modal/TracksideStream.aspx
+plugin://plugin.video.tab.nz/?_=play&_play=1&id=TS1&type=channel&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="tv.trackside2" tvg-logo="https://raw.githubusercontent.com/apelly/mythtv-nz-channel-logos/master/4%3A3/Trackside.png",TAB Trackside  2
-https://loveracing.nz/Common/SystemTemplates/Modal/TracksideStream.aspx?c=2
+plugin://plugin.video.tab.nz/?_=play&_play=1&id=TS2&type=channel&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" tvg-id="78.yourtv.com.au",Racing.Com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-id="sky.51" tvg-name="NZ: Sky Sport 1" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport1_NewLogo_V_80x60.png",Sky Sport 1

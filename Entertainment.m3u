@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://i.mjh.nz/nz/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml,http://xmltv.net/xml_files/Sydney.xml"
+#EXTM3U url-tvg="https://i.mjh.nz/nz/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml,https://i.mjh.nz/DStv/za.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml,http://xmltv.net/xml_files/Sydney.xml"
 #EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040540.png" tvg-id="7.yourtv.com.au",Channel Seven Sydney
 http://185.236.229.110:21190/zuko/channel7hdaus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgMToyNzo0MiBQTSZoYXNoX3ZhbHVlPXE4VDQxQmdneFhwVEs4c3NIOW4zdGc9PSZ2YWxpZG1pbnV0ZXM9Mg==|user-agent=Mozilla/5.0(Windows NT 10.0;Win64;x64)AppleWebKit/537.36(KHTML, like Gecko)Chrome/104.0.5112.81 Safari/537.3
 #EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040542.png" tvg-id="72.yourtv.com.au",7TWO Sydney
@@ -181,9 +181,12 @@ http://89.187.175.143:80/3048/index.m3u8
 plugin://plugin.video.tab.nz/?_=play&_play=1&id=TS1&type=channel&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="tv.trackside2" tvg-logo="https://raw.githubusercontent.com/apelly/mythtv-nz-channel-logos/master/4%3A3/Trackside.png",TAB Trackside  2
 plugin://plugin.video.tab.nz/?_=play&_play=1&id=TS2&type=channel&_is_live=1&_noresume=.pvr
+#EXTINF:-1 tvg-id="tv.sky1rw" tvg-name="Sky Racing 1" tvg-logo="https://i.mjh.nz/.images/tv.sky1rw.png",Sky Racing 1
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/201085.m3u8
+#EXTINF:-1 tvg-id="tv.sky2rw" tvg-name="Sky Racing 2" tvg-logo="https://i.mjh.nz/.images/tv.sky2rw.png",Sky Racing 2
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/201086.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" tvg-id="78.yourtv.com.au",Racing.Com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-
 #EXTINF:-1 tvg-id="sky.51" tvg-name="NZ: Sky Sport 1" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport1_NewLogo_V_80x60.png",Sky Sport 1
 plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=SPT1&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="sky.52" tvg-name="NZ: Sky Sport 2" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport2_NewLogo_V_80x60.png",Sky Sport 2

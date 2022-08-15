@@ -183,6 +183,7 @@ plugin://plugin.video.tab.nz/?_=play&_play=1&id=TS1&type=channel&_is_live=1&_nor
 plugin://plugin.video.tab.nz/?_=play&_play=1&id=TS2&type=channel&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" tvg-id="78.yourtv.com.au",Racing.Com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+
 #EXTINF:-1 tvg-id="sky.51" tvg-name="NZ: Sky Sport 1" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport1_NewLogo_V_80x60.png",Sky Sport 1
 plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=SPT1&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="sky.52" tvg-name="NZ: Sky Sport 2" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport2_NewLogo_V_80x60.png",Sky Sport 2
@@ -201,6 +202,32 @@ plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=0009&_is_live=1&_noresu
 plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=0004&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="sky.59" tvg-name="NZ: Sky Sport 9" tvg-logo="https://static.sky.co.nz/sky/epglogos/MK_SkySport9_NewLogo_V_80x60.png",Sky Sport 9
 plugin://slyguy.skygo.nz/?_=play_linear&_play=1&asset_id=0016&_is_live=1&_noresume=.pvr
+#EXTINF:-1 tvg-id="SDN" tvg-name="ESPN 2 Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/63d7ebf810808d4d7aa14d9ef29a37ee.png",ESPN 
+http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/295317.m3u8
+#EXTINF:-1 tvg-id="HD7" tvg-name="SuperSport Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png",Action
+http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/194354.m3u8
+#EXTINF:-1 tvg-id="SSZ" tvg-name="SuperSport Blitz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/0a52ab66352a2b8d466ccdb407570cad.jpg",Blitz
+http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/281536.m3u8
+#EXTINF:-1 tvg-id="12H" tvg-name="SuperSport Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png",Cricket
+http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11637.m3u8
+#EXTINF:-1 tvg-id="EDH" tvg-name="SuperSport Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png",Golf
+http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11641.m3u8
+#EXTINF:-1 tvg-id="SH4" tvg-name="SuperSport Grandstand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png",Grandstand
+http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/194353.m3u8
+#EXTINF:-1 tvg-id="E30" tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png",Motorsport
+http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11638.m3u8
+#EXTINF:-1 tvg-id="A11" tvg-name="SuperSport Rugby" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png",Rugby
+http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11639.m3u8
+#EXTINF:-1 tvg-id="S34" tvg-name="SuperSport Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png",Tennis
+http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/15200.m3u8
+#EXTINF:-1 tvg-id="HD6" tvg-name="SuperSport Variety 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png",Variety 1
+http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11633.m3u8
+#EXTINF:-1 tvg-id="HD5" tvg-name="SuperSport Variety 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png",Variety 2
+http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11634.m3u8
+#EXTINF:-1 tvg-id="34S" tvg-name="SuperSport Variety 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png",Variety 3
+http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11635.m3u8
+#EXTINF:-1 tvg-id="9HD" tvg-name="SuperSport Variety 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png",Variety 4
+http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11636.m3u8
 
 
 

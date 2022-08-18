@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://xmltv.net/xml_files/Sydney.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Foxtel/epg.xml"
+#EXTM3U url-tvg="https://i.mjh.nz/au/Sydney/epg.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Foxtel/epg.xml"
 
 #EXTINF:-1 tvg-id="tv.101305020520" tvg-logo="https://i.mjh.nz/.images/tv.101305040540.png" tvg-id="7.yourtv.com.au",Seven 
 http://185.236.229.110:21190/zuko/channel7hdaus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgMToyNzo0MiBQTSZoYXNoX3ZhbHVlPXE4VDQxQmdneFhwVEs4c3NIOW4zdGc9PSZ2YWxpZG1pbnV0ZXM9Mg==|user-agent=Mozilla/5.0(Windows NT 10.0;Win64;x64)AppleWebKit/537.36(KHTML, like Gecko)Chrome/104.0.5112.81 Safari/537.3

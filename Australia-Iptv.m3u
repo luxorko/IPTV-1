@@ -1,20 +1,20 @@
 #EXTM3U url-tvg="http://xmltv.net/xml_files/Sydney.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Foxtel/epg.xml"
 
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040540.png" tvg-id="7.yourtv.com.au",Channel Seven Sydney
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.101305040540.png" tvg-id="7.yourtv.com.au",Channel Seven Sydney
 http://185.236.229.110:21190/zuko/channel7hdaus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgMToyNzo0MiBQTSZoYXNoX3ZhbHVlPXE4VDQxQmdneFhwVEs4c3NIOW4zdGc9PSZ2YWxpZG1pbnV0ZXM9Mg==|user-agent=Mozilla/5.0(Windows NT 10.0;Win64;x64)AppleWebKit/537.36(KHTML, like Gecko)Chrome/104.0.5112.81 Safari/537.3
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040542.png" tvg-id="72.yourtv.com.au",7TWO Sydney
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.101305040542.png" tvg-id="72.yourtv.com.au",7TWO Sydney
 http://185.236.229.110:21190/zuko/7twoaus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgMToyNzo0MiBQTSZoYXNoX3ZhbHVlPXE4VDQxQmdneFhwVEs4c3NIOW4zdGc9PSZ2YWxpZG1pbnV0ZXM9Mg==|user-agent=Mozilla/5.0(Windows NT 10.0;Win64;x64)AppleWebKit/537.36(KHTML, like Gecko)Chrome/104.0.5112.81 Safari/537.3
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040545.png" tvg-id="76.yourtv.com.au",7flix NSW
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.mjh.nz/.images/tv.101305040545.png" tvg-id="76.yourtv.com.au",7flix NSW
 http://185.236.229.110:21190/zuko/7flixaus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgMToyNzo0MiBQTSZoYXNoX3ZhbHVlPXE4VDQxQmdneFhwVEs4c3NIOW4zdGc9PSZ2YWxpZG1pbnV0ZXM9Mg==|user-agent=Mozilla/5.0(Windows NT 10.0;Win64;x64)AppleWebKit/537.36(KHTML, like Gecko)Chrome/104.0.5112.81 Safari/537.3
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101305040543.png" tvg-id="73.yourtv.com.au",7mate Sydney
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.101305040543.png" tvg-id="73.yourtv.com.au",7mate Sydney
 http://185.236.229.110:21190/zuko/7mateaus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgMToyNzo0MiBQTSZoYXNoX3ZhbHVlPXE4VDQxQmdneFhwVEs4c3NIOW4zdGc9PSZ2YWxpZG1pbnV0ZXM9Mg==|user-agent=Mozilla/5.0(Windows NT 10.0;Win64;x64)AppleWebKit/537.36(KHTML, like Gecko)Chrome/104.0.5112.81 Safari/537.3
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101204000401.png" tvg-id="9.yourtv.com.au",Channel Nine Sydney
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.101204000401.png" tvg-id="9.yourtv.com.au",Channel Nine Sydney
 http://185.236.229.110:21190/zuko/channel9aus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgMToyNzo0MiBQTSZoYXNoX3ZhbHVlPXE4VDQxQmdneFhwVEs4c3NIOW4zdGc9PSZ2YWxpZG1pbnV0ZXM9Mg==|user-agent=Mozilla/5.0(Windows NT 10.0;Win64;x64)AppleWebKit/537.36(KHTML, like Gecko)Chrome/104.0.5112.81 Safari/537.3
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040A.png" tvg-id="92.yourtv.com.au",9Gem Sydney
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.10120400040A.png" tvg-id="92.yourtv.com.au",9Gem Sydney
 http://185.236.229.110:21190/zuko/channel9gemaus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgMToyNzo0MiBQTSZoYXNoX3ZhbHVlPXE4VDQxQmdneFhwVEs4c3NIOW4zdGc9PSZ2YWxpZG1pbnV0ZXM9Mg==|user-agent=Mozilla/5.0(Windows NT 10.0;Win64;x64)AppleWebKit/537.36(KHTML, like Gecko)Chrome/104.0.5112.81 Safari/537.3
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.10120400040B.png" tvg-id="93.yourtv.com.au",9Go! Sydney
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.10120400040B.png" tvg-id="93.yourtv.com.au",9Go! Sydney
 http://185.236.229.110:21190/zuko/channel9goaus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgMToyNzo0MiBQTSZoYXNoX3ZhbHVlPXE4VDQxQmdneFhwVEs4c3NIOW4zdGc9PSZ2YWxpZG1pbnV0ZXM9Mg==|user-agent=Mozilla/5.0(Windows NT 10.0;Win64;x64)AppleWebKit/537.36(KHTML, like Gecko)Chrome/104.0.5112.81 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.101204000407.png" tvg-id="94.yourtv.com.au",9Life Sydney
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.101204000407.png" tvg-id="94.yourtv.com.au",9Life Sydney
 http://185.236.229.110:21190/zuko/channel9lifeaus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgMToyNzo0MiBQTSZoYXNoX3ZhbHVlPXE4VDQxQmdneFhwVEs4c3NIOW4zdGc9PSZ2YWxpZG1pbnV0ZXM9Mg==|user-agent=Mozilla/5.0(Windows NT 10.0;Win64;x64)AppleWebKit/537.36(KHTML, like Gecko)Chrome/104.0.5112.81 Safari/537.3
 #EXTINF:-1 tvg-id="SRA" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-440/imageHelper.php?id=6024394:206:CHANNEL:IMAGE:png&amp;w=400",Sky Racing 1
 http://185.236.229.110:21190/zuko/sky1aus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgMToyNzo0MiBQTSZoYXNoX3ZhbHVlPXE4VDQxQmdneFhwVEs4c3NIOW4zdGc9PSZ2YWxpZG1pbnV0ZXM9Mg==|user-agent=Mozilla/5.0(Windows NT 10.0;Win64;x64)AppleWebKit/537.36(KHTML, like Gecko)Chrome/104.0.5112.81 Safari/537.3
